@@ -13,7 +13,7 @@ Một ứng dụng Flask cho phép tìm kiếm packages trên các distro Linux 
 - Dockerfile
 - SQLite database
 
-**Challenge URL:** `http://challenge.ctf.com:port`
+**Challenge URL:** `https://packages.challs.pwnoh.io/`
 
 ---
 

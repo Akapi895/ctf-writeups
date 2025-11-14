@@ -13,7 +13,7 @@ Chỉ khi username.length > 47,626,626,725 thì mới hiển thị trang "BIG CH
 - Dockerfile
 - package.json
 
-**Challenge URL:** `http://challenge.ctf.com:port`
+**Challenge URL:** `https://big-chungus.challs.pwnoh.io`
 
 ---
 
